@@ -1,8 +1,8 @@
 MOO-VERSION
-version=1.0.3
-min=0
-url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.3/MOO_Setup_1.0.3.exe
-sha256=3cb32e44efb39733ef47b7cfb1a815a5fc0440b7970ac21ac4f8110126e7cd76
-size=2601826
+version=1.0.4
+min=1.0.4
+url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.4/MOO_Setup_1.0.4.exe
+sha256=d673cdc24496f9348cc3fc5fa4f81cc7446244a53cb7a3449cc8cf2e62ef731b
+size=2589715
 date=2026-11-13
-notes=vvvvvvvv
+notes=security
