@@ -1,8 +1,8 @@
 MOO-VERSION
-version=1.0.4
+version=1.0.5
 min=1.0.4
-url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.4/MOO_Setup_1.0.4.exe
-sha256=d673cdc24496f9348cc3fc5fa4f81cc7446244a53cb7a3449cc8cf2e62ef731b
-size=2589715
-date=2026-11-13
-notes=security
+url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.5/MOO_Setup_1.0.5.exe
+sha256=5e6b8467226ba99d6098d529f76bcfa2079f91f55a4a8013584dccec020997f5
+size=2598696
+date=2026-11-17
+notes=&#x2728; &#x632;&#x631; &#x62C;&#x62F;&#x64A;&#x62F;: COORD CONVERTER<br>&#x62A;&#x62D;&#x648;&#x64A;&#x644; &#x627;&#x644;&#x625;&#x62D;&#x62F;&#x627;&#x62B;&#x64A;&#x627;&#x62A; &#x628;&#x64A;&#x646; UTM &#x648; Latitude / Longitude.<br>* &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x632;&#x648;&#x646; (&#x623;&#x648;&#x62A;&#x648;&#x645;&#x627;&#x62A;&#x64A;&#x643; &#x623;&#x648; &#x64A;&#x62F;&#x648;&#x64A;) &#x648;&#x627;&#x644;&#x645;&#x631;&#x62C;&#x639; (WGS 84 &#x648;&#x63A;&#x64A;&#x631;&#x647;)<br>* &#x627;&#x644;&#x62F;&#x631;&#x62C;&#x627;&#x62A; &#x628;&#x627;&#x644;&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x639;&#x634;&#x631;&#x64A; &#x623;&#x648; D M S<br>* &#x62A;&#x62D;&#x648;&#x64A;&#x644; &#x646;&#x642;&#x637; &#x643;&#x62A;&#x64A;&#x631; &#x645;&#x631;&#x629; &#x648;&#x627;&#x62D;&#x62F;&#x629;: &#x645;&#x646; &#x627;&#x644;&#x631;&#x633;&#x645;&#x60C; &#x623;&#x648; &#x643;&#x627;&#x626;&#x646;&#x627;&#x62A; POINT&#x60C; &#x623;&#x648; &#x645;&#x644;&#x641; TXT / CSV / SDR&#x60C; &#x623;&#x648; &#x644;&#x635;&#x642;<br>* &#x631;&#x633;&#x645; &#x627;&#x644;&#x646;&#x642;&#x637; &#x641;&#x64A; &#x627;&#x644;&#x623;&#x648;&#x62A;&#x648;&#x643;&#x627;&#x62F; &#x645;&#x639; &#x623;&#x631;&#x642;&#x627;&#x645;&#x647;&#x627;<br>* &#x62D;&#x641;&#x638; &#x627;&#x644;&#x646;&#x62A;&#x64A;&#x62C;&#x629; TXT / SDR / CSV
