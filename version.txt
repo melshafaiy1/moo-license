@@ -1,8 +1,8 @@
 MOO-VERSION
-version=1.0.8
-min=1.0.8
-url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.8/MOO_Setup_1.0.8.exe
-sha256=aa23ac48db0bceb8db152fdbcb36f4752d0bcf999c54cd61a382a9f37ae9a60b
-size=2603902
+version=1.0.9
+min=1.0.9
+url=https://github.com/melshafaiy1/moo-license/releases/download/v1.0.9/MOO_Setup_1.0.9.exe
+sha256=657eec38a4e507ba954b0c65b93833b6b329ff6acad2157f7d6addef11798e24
+size=2620962
 date=2026-11-18
-notes=&#x62A;&#x62D;&#x62F;&#x64A;&#x62B; MOO 1.0.8<br>&#x2705; &#x645;&#x628;&#x642;&#x627;&#x634; &#x644;&#x627;&#x632;&#x645; &#x62A;&#x637;&#x644;&#x628; &#x643;&#x648;&#x62F; &#x645;&#x646; &#x627;&#x644;&#x645;&#x637;&#x648;&#x651;&#x631;: &#x627;&#x644;&#x643;&#x648;&#x62F; &#x62F;&#x644;&#x648;&#x642;&#x62A;&#x64A; &#x628;&#x62A;&#x627;&#x62E;&#x62F;&#x647; &#x645;&#x628;&#x627;&#x634;&#x631;&#x629; &#x645;&#x646; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629; &#x627;&#x644;&#x645;&#x62B;&#x628;&#x651;&#x62A;&#x629; &#x641;&#x64A; &#x62C;&#x631;&#x648;&#x628; &#x627;&#x644;&#x648;&#x627;&#x62A;&#x633;&#x627;&#x628;.<br>&#xD83D;&#xDD27; &#x62A;&#x62D;&#x633;&#x64A;&#x646;&#x627;&#x62A; &#x641;&#x64A; &#x627;&#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x648;&#x627;&#x644;&#x62A;&#x648;&#x627;&#x641;&#x642; &#x645;&#x639; &#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;&#x629;.
+notes=
